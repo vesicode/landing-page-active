@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Created with Inkscape (http://www.inkscape.org/)-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svgvesicodelogo" width="70mm" height="20mm" version="1.1" viewBox="0 0 70 20">
+   <defs>
+      <path id="cC" d="M 0,0.5 a 3,3 0,1,0 0,5 "/>
+      <path id="cD" d="M 0,0 l 1.75,0 a 3,3 0,0,1 0,6 l -1.75,0 z"/>
+      <path id="cE" d="M 0,3 h 6 a 3,3 90,1,0 -6,0 c 0,4 4,4 5.5,2.75"/>
+      <path id="cI" d="M 0,0 l 0,6"/>
+      <circle id="cO" cy="3" r="3"/>
+      <path id="cS" d="M 0,5.5 c 1.5 1, 4 1, 4 -1, 0 -2, -3.5 -1, -3.5 -3, 0 -1.5, 2.25 -2, 3.75 -1"/>
+      <path id="cV" d="M 0,0 l 2.5,6 2.5,-6"/>
+      <path id="blobTrail" fill="none" d="M 0,0 c 13.5,-2 14,11 6,9 -8,-2 -5,9 6,9"/>
+      <animateMotion dur="2.5s" href="#tracerBall" repeatCount="3">
+         <mpath href="#blobTrail"/>
+      </animateMotion>
+      <animate
+         href="#tracerBall"
+         attributeName="r"
+         from="0" to="1"
+         dur="2.5s"
+         repeatCount="3"
+         values="0; 0.75; 1.25; 1.5; 0.75; 0.5; 0; 1; 1.5; 0"
+         keyTimes="0; 0.2; 0.3; 0.4; 0.49; .499; .5; .7; .8; 1"/>
+      <animate
+         href="#tracerBall"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1; 0; 0"
+         keyTimes="0; 0.199; 0.2; 0.76; 0.7601; 1"/>
+      <animate
+         href="#c0"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.2; 0.2001; 1"/>
+      <animate
+         href="#c1"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.25; 0.25001; 1"/>
+      <animate
+         href="#c2"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.35; 0.35001; 1"/>         
+      <animate
+         href="#c3"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.46; 0.46001; 1"/>
+      <animate
+         href="#c4"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 1; 1"
+         keyTimes="0; .75; 1"/>
+      <animate
+         href="#c4"
+         attributeName="r"
+         from="10" to="1" dur="2.5s"
+         repeatCount="3"
+         values="7; 1; 1"
+         keyTimes="0; .75; 1"/>
+      <animate
+         href="#c5"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.595; 0.595001; 1"/>
+      <animate
+         href="#c6"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1;"
+         keyTimes="0; 0.7; 0.7001; 1"/>
+      <animate
+         href="#c7"
+         attributeName="opacity"
+         from="0" to="1" dur="2.5s"
+         repeatCount="3"
+         values="0; 0; 1; 1"
+         keyTimes="0; 0.76; 0.7601; 1"/>
+   </defs>
+
+   <g id="logo">
+      <g id="frontdots" style="fill:#4a9b96;fill-opacity:1">
+         <circle id="c0" cx="7.7" cy="1" r="0.75"/>
+         <circle id="c1" cx="10" cy="2.5" r="1.25"/>
+         <circle id="c2" cx="11" cy="6" r="1.5"/>
+         <circle id="c3" cx="9.25" cy="9" r="0.75"/>
+         <circle id="c4" cx="6" cy="9" r="1.5"/>
+         <circle id="c5" cx="2.7" cy="9" r="0.5"/>
+         <circle id="c6" cx="1.5" cy="11.5" r="1"/>
+         <circle id="c7" cx="3" cy="14.5" r="1.5"/>
+         <circle id="tracerBall" cx="0" cy="0" r="1" opacity="0"/>
+      </g>
+      <g id="text" style="fill:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(15,10)">
+         <g id="green" style="stroke:#4a9b96">
+            <use id="c0v" x="0" href="#cV"/>
+            <use id="c1e" x="7" href="#cE"/>
+            <use id="c2s" x="15" href="#cS"/>
+            <use id="c3i" x="22" href="#cI"/>
+         </g>
+         <g id="grey" style="stroke:#b1b1b1">
+            <use id="c4c" x="29.5" href="#cC"/>
+            <use id="c5o" x="34.5" href="#cO"/>
+            <use id="c6d" x="40" href="#cD"/>
+            <use id="c7e" x="47" href="#cE"/>
+         </g>
+      </g>
+   </g>
+</svg>
