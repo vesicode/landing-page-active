@@ -9,14 +9,23 @@ open Fake.IO
 let removableDirs = [
   "./_next"
   "./about"
+  "./service"
+  "./contact"
+  "./css"
+  "./fonts"
+  "./home"
+  "./img"
   "./news"
+  "./panels"
   "./privacy-policy"
   "./products"
-  "./static"
+  "./service"
   "./technology"
 ]
 
 Target.create "Clean" (fun _ ->
+  Shell.rm "./404.html"
+  Shell.rm "./index.html"
   Shell.deleteDirs removableDirs)
 
 Target.create "Default" (fun _ ->
