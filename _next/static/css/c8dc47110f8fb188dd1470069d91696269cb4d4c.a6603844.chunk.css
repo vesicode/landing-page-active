@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'Graphik';
+
+  src: url(/_next/static/fonts/Graphik-Regular-e2a1876e68b3885d03062214bc6016e9.otf) format('opentype');
+
+  font-weight: 400;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontfont ff';
+
+  src: url(/_next/static/fonts/FontFont_FF.Mark.Pro.Medium-8531ae94f5ad973be8b718f88e9660ed.otf) format('opentype');
+
+  font-weight: 100;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontfont ff';
+
+  src: url(/_next/static/fonts/FontFont_FF.Mark.Pro.Bold-476d44b0f6c8939bb8859c9ce7598310.otf) format('opentype');
+
+  font-weight: 900;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontfont ff';
+
+  src: url(/_next/static/fonts/FontFont_FF.Mark.Pro.Light-57a6370dbb58e9200e9d0e67be530df7.otf) format('opentype');
+
+  font-weight: 300;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontfont ff';
+
+  src: url(/_next/static/fonts/FontFont_FF.Mark.Pro.Book-3b042cbc12d475a086a5f83a61aec84c.otf) format('opentype');
+
+  font-weight: 400;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontfont ff';
+
+  src: url(/_next/static/fonts/FontFont_FF.Mark.Pro-12d6724a254d3be629fc6b2871ae5a6a.otf) format('opentype');
+
+  font-weight: 700;
+
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Minionpro';
+
+  src: url(/_next/static/fonts/MinionPro-Regular-38711b5bb243e894a6d58c8755bb034a.otf) format('opentype');
+
+  font-weight: 400;
+
+  font-style: normal;
+}

@@ -1,0 +1,459 @@
+{
+  "panel": [{
+      "id": "TPBG",
+      "name": "Trophoblast glycoprotein (TPBG)"
+    },
+    {
+      "id": "CD9",
+      "name": "Tetraspanin – CD9 molecule (CD9)"
+    },
+    {
+      "id": "ITGAL",
+      "name": "Integrin alpha-L (ITGAL)"
+    },
+    {
+      "id": "ABCB5",
+      "name": "ATP-binding cassette sub-family B member 5 (ABCB5)"
+    },
+    {
+      "id": "THY1",
+      "name": "Thy-1 cell surface antigen (THY1)"
+    },
+    {
+      "id": "ITGAM",
+      "name": "Integrin alpha-M (ITGAM)"
+    },
+    {
+      "id": "ADAM10",
+      "name": "ADAM metallopeptidase domain 10 (ADAM10)"
+    },
+    {
+      "id": "ABCG2",
+      "name": "ATP-binding cassette sub-family G member 2 (ABCG2)"
+    },
+    {
+      "id": "ITGAV",
+      "name": "Integrin alpha-V (ITGAV)"
+    },
+    {
+      "id": "ADSF",
+      "name": "Resistin (ADSF)"
+    },
+    {
+      "id": "CLDN7",
+      "name": "Claudin-7 (CLDN7)"
+    },
+    {
+      "id": "ITGAX",
+      "name": "Integrin alpha-X (ITGAX)"
+    },
+    {
+      "id": "ALDH1A1",
+      "name": "Aldehyde dehydrogenase 1 family member A1 (ALDH1A1)"
+    },
+    {
+      "id": "CLSTN1",
+      "name": "Calsyntenin-1 (CLSTN1)"
+    },
+    {
+      "id": "ITGB1",
+      "name": "Integrin beta-1 (ITGB1)"
+    },
+    {
+      "id": "ALPP",
+      "name": "Alkaline phosphatase (ALPP)"
+    },
+    {
+      "id": "MET",
+      "name": "MET proto-oncogene, receptor tyrosine kinase (MET)"
+    },
+    {
+      "id": "ITGB2",
+      "name": "Integrin beta-2 (ITGB2)"
+    },
+    {
+      "id": "ANG",
+      "name": "Angiogenin (ANG)"
+    },
+    {
+      "id": "CXCL16",
+      "name": "C-X-C motif chemokine 16 (CXCL16)"
+    },
+    {
+      "id": "ITGB3",
+      "name": "Integrin beta-3 (ITGB3)"
+    },
+    {
+      "id": "ANX1",
+      "name": "Annexin A1 (ANX1)"
+    },
+    {
+      "id": "KRT18",
+      "name": "Keratin 18 (KRT18)"
+    },
+    {
+      "id": "ITGB4",
+      "name": "Integrin beta-4 (ITGB4)"
+    },
+    {
+      "id": "ANX2",
+      "name": "Annexin A2 (ANX2)"
+    },
+    {
+      "id": "EDIL3",
+      "name": "EGF like repeat and discoidin I-like domain 3 (EDIL3)"
+    },
+    {
+      "id": "ITGB5",
+      "name": "Integrin beta-5 (ITGB5)"
+    },
+    {
+      "id": "CDH17",
+      "name": "Cadherin 17 (CDH17)"
+    },
+    {
+      "id": "EGF",
+      "name": "Epidermal growth factor (EGF)"
+    },
+    {
+      "id": "ITGB6",
+      "name": "Integrin beta-6 (ITGB6)"
+    },
+    {
+      "id": "CAV1",
+      "name": "Caveolin 1 (CAV1)"
+    },
+    {
+      "id": "EGFR",
+      "name": "Epidermal growth factor receptor (EGFR)"
+    },
+    {
+      "id": "ITGB7",
+      "name": "Integrin beta-7 (ITGB7)"
+    },
+    {
+      "id": "ENG",
+      "name": "Endoglin (ENG)"
+    },
+    {
+      "id": "EPCAM",
+      "name": "Epithelial cell adhesion molecule (EPCAM)"
+    },
+    {
+      "id": "ITGB8",
+      "name": "Integrin beta-8 (ITGB8)"
+    },
+    {
+      "id": "LAMP1",
+      "name": "Lysosomal associated membrane protein 1 (LAMP1)"
+    },
+    {
+      "id": "EPHA2",
+      "name": "EPH receptor A2 (EPHA2)"
+    },
+    {
+      "id": "LGR5",
+      "name": "Leucine-rich repeat –containing G-protein coupled receptor 5 (LGR5)"
+    },
+    {
+      "id": "LAMP2",
+      "name": "Lysosomal associated membrane protein 2 (LAMP2)"
+    },
+    {
+      "id": "EPS8",
+      "name": "Epidermal growth factor receptor pathway substrate 8 (EPS8)"
+    },
+    {
+      "id": "PDLIM7",
+      "name": "PDZ and LIM domain protein 7 (PDLIM7)"
+    },
+    {
+      "id": "KIT",
+      "name": "KIT proto-oncogene receptor tyrosine kinase (KIT)"
+    },
+    {
+      "id": "PTK2",
+      "name": "Protein tyrosine kinase 2 (PTK2)"
+    },
+    {
+      "id": "CCL2",
+      "name": "C-C motif chemokine ligand 2 (CCL2)"
+    },
+    {
+      "id": "ANPEP",
+      "name": "Alanyl aminopeptidase (ANPEP)"
+    },
+    {
+      "id": "FASN",
+      "name": "Fatty acid synthase (FASN)"
+    },
+    {
+      "id": "RIOX2",
+      "name": "Ribosomal oxygenase 2 (RIOX2)"
+    },
+    {
+      "id": "PROM1",
+      "name": "Prominin 1 (PROM1)"
+    },
+    {
+      "id": "FGF2",
+      "name": "Fibroblast growth factor 2 (FGF2)"
+    },
+    {
+      "id": "MAP2K4",
+      "name": "Mitogen-activated protein kinase 4 (MAP2K4)"
+    },
+    {
+      "id": "PDGFRA",
+      "name": "Platelet derived growth factor receptor alpha (PDGFRA)"
+    },
+    {
+      "id": "FN1",
+      "name": "Fibronectin 1 (FN1)"
+    },
+    {
+      "id": "MMP14",
+      "name": "Matrix metalloproteinase-14 (MMP14)"
+    },
+    {
+      "id": "MCAM",
+      "name": "Melanoma cell adhesion molecule (MCAM)"
+    },
+    {
+      "id": "FOLH1",
+      "name": "Glutamate carboxypeptidase 2 (FOLH1)"
+    },
+    {
+      "id": "MMP2",
+      "name": "Matrix metalloproteinase-2 (MMP2)"
+    },
+    {
+      "id": "BSG",
+      "name": "Basigin (BSG)"
+    },
+    {
+      "id": "GDF15",
+      "name": "Growth differentiation factor 15 (GDF15)"
+    },
+    {
+      "id": "MMP9",
+      "name": "Matrix metalloproteinase-9 (MMP9)"
+    },
+    {
+      "id": "FUT4",
+      "name": "Fucosyltransferase 4 (FUT4)"
+    },
+    {
+      "id": "GPC1",
+      "name": "Glypican 1 (GPC1)"
+    },
+    {
+      "id": "MUC4",
+      "name": "Mucin-4 (MUC4)"
+    },
+    {
+      "id": "CD151",
+      "name": "Tetraspanin – CD151 molecule (CD151)"
+    },
+    {
+      "id": "HLA-G",
+      "name": "HLA class I histocompatibility antigen, alpha chain G (HLA-G)"
+    },
+    {
+      "id": "CDH2",
+      "name": "Cadherin-2 (CDH2)"
+    },
+    {
+      "id": "CD163",
+      "name": "Scavenger receptor cysteine-rich type 1 protein M130 (CD163)"
+    },
+    {
+      "id": "HSPA4",
+      "name": "Heat shock 70 kDa protein 4 (HSPA4)"
+    },
+    {
+      "id": "NES",
+      "name": "Nestin (NES)"
+    },
+    {
+      "id": "ALCAM",
+      "name": "Activated leukocyte cell adhesion molecule (ALCAM)"
+    },
+    {
+      "id": "HSP90AA1",
+      "name": "Heat shock protein HSP 90-alpha (HSP90AA1)"
+    },
+    {
+      "id": "PDPN",
+      "name": "Podoplanin (PDPN)"
+    },
+    {
+      "id": "L1CAM",
+      "name": "Neural cell adhesion molecule L1 (L1CAM)"
+    },
+    {
+      "id": "IDH1",
+      "name": "Isocitrate dehydrogenase [NADP], cytoplasmic (IDH1)"
+    },
+    {
+      "id": "RARRES3",
+      "name": "Retinoic acid receptor responder 3 (RARRES3)"
+    },
+    {
+      "id": "CXCR4",
+      "name": "C-X-C chemokine receptor type 4 (CXCR4)"
+    },
+    {
+      "id": "IL6",
+      "name": "Interleukin 6 (IL6)"
+    },
+    {
+      "id": "BIRC5",
+      "name": "Baculoviral IAP repeat-containing protein 5 (BIRC5)"
+    },
+    {
+      "id": "CCR6",
+      "name": "C-C chemokine receptor type 6 (CCR6)"
+    },
+    {
+      "id": "IL8",
+      "name": "C-X-C motif chemokine ligand 8 (IL8)"
+    },
+    {
+      "id": "TSPAN8",
+      "name": "Tetraspanin 8 (TSPAN8)"
+    },
+    {
+      "id": "MS4A1",
+      "name": "Membrane spanning 4-domanins A1 (MS4A1)"
+    },
+    {
+      "id": "ILK",
+      "name": "Integrin-linked protein kinase (ILK)"
+    },
+    {
+      "id": "TGFB1",
+      "name": "Transforming growth factor beta-1 protoprotein (TGFB1)"
+    },
+    {
+      "id": "MUC1",
+      "name": "Mucin 1 (MUC1)"
+    },
+    {
+      "id": "ITGA1",
+      "name": "Integrin alpha-1 (ITGA1)"
+    },
+    {
+      "id": "TIMP1",
+      "name": "Metalloproteinase inhibitor 1 (TIMP1)"
+    },
+    {
+      "id": "CD24",
+      "name": "Signal transducer CD24 (CD24)"
+    },
+    {
+      "id": "ITGA11",
+      "name": "Integrin alpha-11 (ITGA11)"
+    },
+    {
+      "id": "TIMP2",
+      "name": "Metalloproteinase inhibitor 2 (TIMP2)"
+    },
+    {
+      "id": "DPP4",
+      "name": "Dipeptidyl peptidase 4 (DPP4)"
+    },
+    {
+      "id": "ITGA2",
+      "name": "Integrin alpha-2 (ITGA2)"
+    },
+    {
+      "id": "TACSTD2",
+      "name": "Tumor-associated calcium singal transducer 2 (TACSTD2)"
+    },
+    {
+      "id": "NGFR",
+      "name": "Tumor necrosis factor receptor superfamily member 16 (NGFR)"
+    },
+    {
+      "id": "ITGA2B",
+      "name": "Integrin alpha-IIb (ITGA2B)"
+    },
+    {
+      "id": "PLAU",
+      "name": "Urokinase-type plasminogen activator (PLAU)"
+    },
+    {
+      "id": "CDCP1",
+      "name": "CUB domain-containing protein 1 (CDCP1)"
+    },
+    {
+      "id": "ITGA3",
+      "name": "Integrin alpha-3 (ITGA3)"
+    },
+    {
+      "id": "VEGFA",
+      "name": "Vascular endothelial growth factor A (VEGFA)"
+    },
+    {
+      "id": "ERBB2",
+      "name": "Receptor tyrosine-protein kinase erbB-2 (ERBB2)"
+    },
+    {
+      "id": "ITGA5",
+      "name": "Integrin alpha-5 (ITGA5)"
+    },
+    {
+      "id": "WNT11",
+      "name": "Protein Wnt-11 (WNT11)"
+    },
+    {
+      "id": "CD36",
+      "name": "CD36 antigen (CD36)"
+    },
+    {
+      "id": "ITGA6",
+      "name": "Integrin alpha-6 (ITGA6)"
+    },
+    {
+      "id": "XIAP",
+      "name": "E3 ubiquitin-protein ligase XIAP (XIAP)"
+    },
+    {
+      "id": "CD44",
+      "name": "CD44 antigen (CD44)"
+    },
+    {
+      "id": "ITGA7",
+      "name": "Integrin alpha-7 (ITGA7)"
+    },
+    {
+      "id": "ICAM1",
+      "name": "Intercellular adhesion molecule 1 (ICAM1)"
+    },
+    {
+      "id": "ITGA8",
+      "name": "Integrin alpha-8 (ITGA8)"
+    },
+    {
+      "id": "CD63",
+      "name": "Tetraspanin – CD63 molecule (CD63)"
+    },
+    {
+      "id": "ITGA9",
+      "name": "Integrin alpha-9 (ITGA9)"
+    },
+    {
+      "id": "CEACAM1",
+      "name": "Carcinoembryonic antigen-related cell adhesion molecule 1 (CEACAM1)"
+    },
+    {
+      "id": "ITGAE",
+      "name": "Integrin alpha-E (ITGAE)"
+    },
+    {
+      "id": "NT5E",
+      "name": "5’-nucleotidase (NT5E)"
+    }
+  ]
+}
